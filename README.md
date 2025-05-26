@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Vinit — a Python and SQL Developer from Mumbai, now diving deep into modern Data Engineering tools and practices
+
+- 🔭 Currently building Data pipeline projects to figure out how companies around the world build scalable data infrastructure to help with business decisions.
+- 🌱 Learning Apache Airflow and Google Cloud Platform (GCP); next up: Apache Spark and Dimensional Data Modelling.
+- 🛠️ Hands-on with batch ETL, DAG orchestration, cloud storage (GCS), and BigQuery for SQL-based analytics.
+- 👯 Open to collaborating on Python or Data Engineering projects — happy to start with documentation or good first issues.
+- 📫 Outside of tech, I try to read, love talking to people and enjoy to see trees flow with the wind.
+
+Feel free to connect or check out my projects to see what I'm building!
 <!--
 **Vinit-M420/vinit-m420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
