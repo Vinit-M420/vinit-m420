@@ -2,11 +2,17 @@
 
 I'm Vinit — a Python and SQL Developer from Mumbai, now diving deep into modern Data Engineering tools and practices
 
-- 🔭 Currently building Data pipeline projects to figure out how companies around the world build scalable data infrastructure to help with business decisions.
+### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png" width="36" height="36" alt="Airflow" /></a>
+                    </p>
+                    
+
+- 🔭 Currently building Data pipeline projects to figure out how companies worldwide build scalable data infrastructure to help with business decisions.
 - 🌱 Learning Apache Airflow and Google Cloud Platform (GCP); next up: Apache Spark and Dimensional Data Modelling.
 - 🛠️ Hands-on with batch ETL, DAG orchestration, cloud storage (GCS), and BigQuery for SQL-based analytics.
 - 👯 Open to collaborating on Python or Data Engineering projects — happy to start with documentation or good first issues.
-- 📫 Outside of tech, I try to read, love talking to people and enjoy to see trees flow with the wind.
+- 📫 Outside of tech, I try to read, love talking to people, and enjoy seeing trees flow with the wind.
 
 Feel free to connect or check out my projects to see what I'm building!
 <!--
