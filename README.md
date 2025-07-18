@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Vinit** — a Python and SQL Developer from Mumbai, now diving deep into modern Data Engineering tools and practices
+I'm **Vinit** — a Python and SQL Developer from Mumbai, now diving deep into Full-stack Development by following 100xDev's Cohort 3
 
 ### Skills 
 <p align="left">
@@ -11,10 +11,10 @@ I'm **Vinit** — a Python and SQL Developer from Mumbai, now diving deep into m
         
                     
 
-- 🔭 Currently building Data pipeline projects to figure out how companies worldwide build scalable data infrastructure to help with business decisions.
-- 🌱 Learning Apache Airflow and Google Cloud Platform (GCP); next up: Apache Spark and Dimensional Data Modelling.
-- 🛠️ Hands-on with batch ETL, DAG orchestration, cloud storage (GCS), and BigQuery for SQL-based analytics.
-- 👯 Open to collaborating on Python or Data Engineering projects — happy to start with documentation or good first issues.
+- 🔭 Currently building basic Todo apps and Coursera clone.
+- 🌱 Learning React with hands on assignments currently
+- 🛠️ Have over 2 years prior experience of SQL, Python.
+- 👯 Open to collaborating on Python or MERN projects — happy to start with documentation or good first issues.
 - 📫 Outside of tech, I try to read, love talking to people, and enjoy seeing trees flow with the wind.
 
 
