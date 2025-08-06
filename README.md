@@ -1,4 +1,4 @@
-**Building and chasing excellence through daily throughput**
+**Building my coding sense 🕸️**
 
 ### Skills 
 <p align="left">
